@@ -8,3 +8,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 node modules folder also not uploaded because like when you create a react app it's automatically will get created.
+
+This is the first Task of codxo web devlopment that is an Todo App.
