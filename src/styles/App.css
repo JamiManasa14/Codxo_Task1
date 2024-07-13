@@ -1,0 +1,31 @@
+.app {
+  text-align: center;
+  flex: 1;
+  /* Ensures the app container takes up the available space */
+  display: flex;
+  flex-direction: column;
+  background-color: aquamarine;
+}
+
+nav {
+  margin-bottom: 20px;
+  background-color: azure;
+
+
+
+}
+
+nav a {
+  margin: 0 26px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: x-large;
+  color: burlywood;
+
+  border-radius: 5px;
+
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
